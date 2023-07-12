@@ -6,7 +6,7 @@
 }
 ```
 
-### run the installation
+### run the installation and start
 ```
 npm install
 npm start
