@@ -1,4 +1,4 @@
-### create a config file
+### create a config file "config.json" under src
 ```
 {
     "SpeechKey":"",
